@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mitsueda-itsuki/bolt-learn/issues"
   },
-  "homepage": "https://github.com/mitsueda-itsuki/bolt-learn#readme"
+  "homepage": "https://github.com/mitsueda-itsuki/bolt-learn#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.3.0",
+    "dotenv": "^9.0.1"
+  }
 }
